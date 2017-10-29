@@ -1,0 +1,6 @@
+framework module Pods_Fuel_My_Ride {
+  umbrella header "Pods-Fuel My Ride-umbrella.h"
+
+  export *
+  module * { export * }
+}
